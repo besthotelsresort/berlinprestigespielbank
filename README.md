@@ -1,0 +1,2 @@
+# berlinprestigespielbank
+Static site: berlinprestigespielbank
